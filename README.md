@@ -2,9 +2,9 @@
 
 > A graph theory & network analysis research project
 >  for Statistics South Africa 
->  and Cape Peninsula University of Technology — Introduction to Projects (PRJ360S)  
-> Author: **Mkhonto Hendry Mike** | Student No: 221026908  
-> Supervisor: Dr Vodha | April 2024
+>  and Cape Peninsula University of Technology —  Projects (PRJ360S)  
+> Author: **Mkhonto Hendry Mike**  
+> Supervisor: Dr Vodha 
 
 ---
 
