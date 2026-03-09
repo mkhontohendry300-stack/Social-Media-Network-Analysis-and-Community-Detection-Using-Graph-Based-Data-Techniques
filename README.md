@@ -1,0 +1,2 @@
+# Social-Media-Network-Analysis-and-Community-Detection-Using-Graph-Based-Data-Techniques
+This project investigates community detection in social media networks using graph theory and Social Network Analysis (SNA). By analysing real-world social media data spanning the COVID-19 pandemic (2018–2023), the study compares three community detection algorithms to determine which identifies meaningful communities within large-scale networks
