@@ -1,8 +1,8 @@
 #  Social Media Marketing — Community Detection
 
 > A graph theory & network analysis research project
-> Statistics South Africa 
-> Cape Peninsula University of Technology — Introduction to Projects (PRJ360S)  
+>  for Statistics South Africa 
+>  and Cape Peninsula University of Technology — Introduction to Projects (PRJ360S)  
 > Author: **Mkhonto Hendry Mike** | Student No: 221026908  
 > Supervisor: Dr Vodha | April 2024
 
